@@ -4,6 +4,9 @@ Agricultural product management program (korean)
 
 # 자바 돌아가는 환경이 구현되면 스샷좀 찍어서 README 꾸며놓겠습니다.
 
+# 설명
+(JAVA) 농산물 관리 프로그램 텀프로젝트 - https://kimbrain.tistory.com/m/57
+
 
 학부생시절 객체지향 프로그래밍 과목을 수강하며 만들었던 텀프로젝트입니다.
 
