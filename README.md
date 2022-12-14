@@ -1,4 +1,4 @@
-# JAVA_TermProjeck
+# JAVA_TermProject
 
 Agricultural product management program (korean)
 
